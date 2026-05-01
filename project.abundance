@@ -47,11 +47,11 @@
         },
         {
           "name": "xDist",
-          "ioValue": 90
+          "ioValue": 85
         },
         {
           "name": "yDist",
-          "ioValue": 90
+          "ioValue": 85
         },
         {
           "name": "zDist",
@@ -71,11 +71,11 @@
         },
         {
           "name": "xDist",
-          "ioValue": 75
+          "ioValue": 65
         },
         {
           "name": "yDist",
-          "ioValue": 75
+          "ioValue": 65
         },
         {
           "name": "zDist",
@@ -108,7 +108,7 @@
       "ioValues": [
         {
           "name": "diameter",
-          "ioValue": 10
+          "ioValue": 6.28
         }
       ]
     },
@@ -124,7 +124,8 @@
         },
         {
           "name": "xDist",
-          "ioValue": 100
+          "ioValue": 100,
+          "currentEquation": "100"
         },
         {
           "name": "yDist",
@@ -148,7 +149,8 @@
         },
         {
           "name": "xDist",
-          "ioValue": 50
+          "ioValue": 50,
+          "currentEquation": "50"
         },
         {
           "name": "yDist",
@@ -162,8 +164,8 @@
     },
     {
       "atomType": "Rotate",
-      "x": 0.41102756892230574,
-      "y": 0.6323851203501094,
+      "x": 0.41269841269841273,
+      "y": 0.6542669584245077,
       "uniqueID": "id-39",
       "ioValues": [
         {
@@ -180,7 +182,7 @@
         },
         {
           "name": "z-axis degrees",
-          "ioValue": 0
+          "ioValue": 90
         }
       ]
     },
@@ -210,8 +212,8 @@
     },
     {
       "atomType": "Rotate",
-      "x": 0.3692564745196324,
-      "y": 0.8052516411378555,
+      "x": 0.3675856307435255,
+      "y": 0.8030634573304157,
       "uniqueID": "id-51",
       "ioValues": [
         {
@@ -220,22 +222,24 @@
         },
         {
           "name": "x-axis degrees",
-          "ioValue": 0
+          "ioValue": 0,
+          "currentEquation": "0"
         },
         {
           "name": "y-axis degrees",
-          "ioValue": 0
+          "ioValue": 0,
+          "currentEquation": "0"
         },
         {
           "name": "z-axis degrees",
-          "ioValue": 0
+          "ioValue": 90
         }
       ]
     },
     {
       "atomType": "Rotate",
-      "x": 0.42857142857142855,
-      "y": 0.9409190371991247,
+      "x": 0.41520467836257313,
+      "y": 0.9212253829321663,
       "uniqueID": "id-57",
       "ioValues": [
         {
@@ -252,7 +256,8 @@
         },
         {
           "name": "z-axis degrees",
-          "ioValue": 0
+          "ioValue": 0,
+          "currentEquation": "0"
         }
       ]
     }
